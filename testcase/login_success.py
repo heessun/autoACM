@@ -1,4 +1,3 @@
-# tests/test_login.py
 import pytest
 from qaseio.pytest import qase
 from playwright.sync_api import sync_playwright
