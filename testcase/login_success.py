@@ -1,7 +1,7 @@
 import pytest
 from qaseio.pytest import qase
 from playwright.sync_api import sync_playwright
-from pages.login_page import LoginPage
+from page.page_login import LoginPage
 
 @pytest.fixture
 def browser():
