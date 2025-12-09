@@ -1,5 +1,0 @@
-pytest
-pytest-playwright
-playwright
-qase-pytest
-python-dotenv
